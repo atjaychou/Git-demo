@@ -1,0 +1,11 @@
+git config --global user.name zxj
+git config --global user.email zxj@163.com
+git init
+git status
+cat filename
+tail -n 5 filename
+git add filename
+git rm --cached filename
+git commit -m "first commit(日志)" filename
+git reflog
+git log
