@@ -10,5 +10,5 @@ git commit -m "first commit(日志)" filename
 git reflog
 git log
 git branch -v
-git branch branchName
+git branch branchName 2
 git checkout hot-fix
