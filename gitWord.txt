@@ -9,3 +9,6 @@ git rm --cached filename
 git commit -m "first commit(日志)" filename
 git reflog
 git log
+git branch -v
+git branch branchName
+git checkout hot-fix
