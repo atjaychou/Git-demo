@@ -10,6 +10,6 @@ git commit -m "first commit(日志)" filename
 git reflog
 git log
 git branch -v
-git branch branchName
+git branch branchName 2
 git checkout hot-fix（切换分支）
 git merge hot-fix（合并该分支到当前分支）1
