@@ -11,4 +11,5 @@ git reflog
 git log
 git branch -v
 git branch branchName
-git checkout hot-fix
+git checkout hot-fix（切换分支）
+git merge hot-fix（合并该分支到当前分支）1
